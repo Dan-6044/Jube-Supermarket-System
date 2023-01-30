@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JubeSUPERMARKETMANAGEMENTSYSYTEM
+</name>
+</assembly>
+<members>
+<member name="P:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Customer_purchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Login_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Sales_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Table1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Customer_purchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Login_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Sales_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Table1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Customer_purchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Login_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Sales_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet.Table1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.Customer_purchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.Login_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.Sales_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.Table1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.UpdateAll(Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Jube_SUPERMARKET_MANAGEMENT_SYSYTEM.sale_databaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
